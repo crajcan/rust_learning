@@ -65,7 +65,7 @@
         <td>Struct std::boxed::Box</td>
     </tr>
     <tr>
-        <td>j</td>
+        <td>8</td>
         <td>15.4: Rc<T>, the Reference Counted Smart Pointer</td>
         <td>19.8: Rc</td>
         <td>Struct std::rc::Rc</td>
@@ -104,7 +104,7 @@
         <td>14</td>
         <td>9: error handling</td>
         <td>18. Error handling 19. Macro</td>
-        <td>std::panic Trait std::error::Error" |</td>
+        <td>std::panic Trait std::error::Error</td>
     </tr>
     <tr>
         <td>15</td>
