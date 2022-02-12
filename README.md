@@ -32,3 +32,23 @@ Unit | Book Chapter                                                             
 16   | (11: Writing Automated Tests)[https://doc.rust-lang.org/book/ch11-00-testing.html]                                                                                                                                            | 21. Testing                                                          |                                           |
 17   | (13:Functional Language Features: Iterators and Closures)[]https://doc.rust-lang.org/book/ch13-00-functional-features.html                                                                                                    | 9.2: Closures 16.5: Iterators                                        |                                           |
 18   | (14: More about Cargo and Crates.io)[https://doc.rust-lang.org/book/ch14-00-more-about-cargo.html]                                                                                                                            | 12: Cargo                                                            | Crate cargo                               |
+
+
+<section>
+<table>
+    <tr>
+        <th>1</th>
+        <th>2</th>
+    </tr>
+    <tr>
+        <td>a</td>
+        <td>b</td>
+    </tr>
+    <tr>
+        <td>c</td>
+        <td>d</td>
+    </tr>
+</table>
+</section>
+
+
